@@ -1,2 +1,2 @@
 # primeiro_site
-site feio para projeto da faculdade
+site feito para projeto da faculdade
