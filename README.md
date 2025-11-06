@@ -1,2 +1,2 @@
 # primeiro_site
-site feito para projeto da faculdade
+site feito em html,css e javascript para projeto da faculdade
